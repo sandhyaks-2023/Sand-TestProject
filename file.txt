@@ -1,1 +1,2 @@
 my first transaction in first branch
+My second transaction in first branch
